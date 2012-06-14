@@ -1,1 +1,1 @@
-print "its a first git remote.....\n";
+print "its a first git remote.....\staging";
