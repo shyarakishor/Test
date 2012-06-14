@@ -1,1 +1,1 @@
-print "this is a new functionality after changed";
+print "this is a new funtionality after changed";
